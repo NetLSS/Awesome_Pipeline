@@ -4,3 +4,4 @@
 - 2021-09-01 : movie : Shang-Chi and the Legend of the Ten Rings 
 - 2021-09-10 : eBay interview rest : (bicycle)
 - 2021-09-12 ~ 09-13 : 🎉 My Birthday 🎉 🥳 🥳 
+- 2021-09-17 : LotteWorld
