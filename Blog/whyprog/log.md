@@ -11,3 +11,4 @@
 - 2021-08-24 : [코루틴 한번에 끝내기 글 업데이트](https://whyprogrammer.tistory.com/596)
 - 2021-09-18 : [Rolex watchface for Galaxy Watch4 Classic](https://whyprogrammer.tistory.com/628)
 - 2021-09-26 : [[Android] Kotlin Retrofit (X-Auth-Token 과 함께 Post 하기)](https://whyprogrammer.tistory.com/629)
+- 2021-10-14 : [[Android Studio] loading bar decoration : Super Mario](https://whyprogrammer.tistory.com/630)
