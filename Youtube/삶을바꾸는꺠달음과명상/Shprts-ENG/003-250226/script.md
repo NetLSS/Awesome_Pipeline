@@ -1,0 +1,1 @@
+Our minds are nothing more than waves on the sea of consciousness. As waves, they come and go. As a sea, they are infinite and eternal. Know yourself as the sea of existence, the womb of all existence. Of course, this is a metaphor. Reality is beyond description. Only by becoming it can you truly know it.
