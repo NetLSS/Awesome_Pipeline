@@ -1,5 +1,1 @@
 When you sit quietly and observe yourself, all kinds of things may come to the surface. Do not do anything about them; do not react. They will disappear just as they came. The important thing is mindfulness—that is, being fully aware of your mind.
-
-## title
-
-Mindfulness Meditation: Discover Your Inner Self #Mindfulness #SelfAwareness
