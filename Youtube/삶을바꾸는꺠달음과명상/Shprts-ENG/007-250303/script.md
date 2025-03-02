@@ -1,0 +1,1 @@
+The body has physical impulses, and the mind has mental pains and pleasures. Awareness is detached and unwavering. It is clear, serene, peaceful, alert, fearless, and devoid of desire and fear. Meditate on it as the true being and strive to become it in your daily life. Then you will come to realize it fully.
