@@ -1,0 +1,3 @@
+The most heinous fraud against humanity is the saying,"Tomorrow will be better than today."People call it hope, but I call it despair.The moment you believe that tomorrow will be better than today, you are deceiving yourself forever.Tomorrow will always be better because tomorrow never comes.
+
+Those who have become slaves to their own thoughts and emotions believe that hope is an essential tool.However, life does not need hope; life needs vitality.This vitality must resonate in everything around you right now.You can only act in the present; you cannot act tomorrow.You cannot live tomorrow—you can only live now.
