@@ -1,0 +1,1 @@
+Nuestras mentes son meramente olas en el mar de la conciencia. Como olas, vienen y van. Como mar, son infinitas y eternas. Conócete a ti mismo como el mar del ser, el útero de toda existencia. Esto, por supuesto, es una met

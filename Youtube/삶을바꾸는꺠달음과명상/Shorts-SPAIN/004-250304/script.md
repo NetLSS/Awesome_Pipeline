@@ -1,0 +1,1 @@
+Lo que viene y va no tiene existencia propia. Su aparición misma se debe a la realidad. Tú sabes que existe un mundo, pero ¿ese mundo te conoce a ti? Todo conocimiento fluye de ti. Al igual que todo ser y toda alegría. Reconoce que eres la fuente eterna y acepta todo como propio. Esa aceptación es el verdadero amor.

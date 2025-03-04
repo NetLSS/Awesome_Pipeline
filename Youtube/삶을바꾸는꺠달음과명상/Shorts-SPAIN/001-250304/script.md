@@ -1,0 +1,1 @@
+Si te sientas tranquilamente y observas a ti mismo, es posible que todo tipo de cosas emergan a la superficie. No hagas nada al respecto, no reacciones. Desaparecerán tal como llegaron. Lo importante es el estado de plenitud mental (es decir, Mindfulness), que es, más precisamente, la consciencia total de uno mismo, o mejor dicho, de la propia mente.
