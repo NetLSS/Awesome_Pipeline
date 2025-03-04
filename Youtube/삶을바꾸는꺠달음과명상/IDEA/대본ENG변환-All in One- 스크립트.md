@@ -1,14 +1,10 @@
-Below is the script I will use for the video. It's in Korean, so please translate it into Spanish accordingly.
+Below is the script I will use for the video. It's in Korean, so please translate it into English accordingly.
 
 I have created a YouTube video. The script is as follows:
 
 ## Transcript
 
 [script]
-
-## Request
-
-This YouTube channel operates in Spain. The title, description, etc. are all in Spanish.
 
 ## Request 1
 
