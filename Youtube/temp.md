@@ -1,1 +1,1 @@
-Espiritualidad,Conciencia,LibertadInterior,Ascetismo,CrecimientoPersonal,Mindfulness,Autoconocimiento,VidaConsciente,Bienestar,Meditación
+명상, 깨달음, 철학, 무위, 천하, 성인, 패망, 지혜, meditation, enlightenment
