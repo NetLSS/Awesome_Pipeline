@@ -1,1 +1,1 @@
-명상, 깨달음, 철학, 무위, 천하, 성인, 패망, 지혜, meditation, enlightenment
+깨달음, 명상, 도덕경, 철학, 강함의역설, 삶의지혜, 교만, 자연의이치, 마음챙김, enlightenment
