@@ -1,5 +1,7 @@
 Below is the script I will use for the video. It's in Korean, so please translate it into Spanish accordingly.
 
+If a sentence gets too long in the transcript, please add an apostrophe or line break. (I don't know Spanish well enough to know where to break it)
+
 I have created a YouTube video. The script is as follows:
 
 ## Transcript

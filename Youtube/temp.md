@@ -1,0 +1,1 @@
+Espiritualidad,Conciencia,LibertadInterior,Ascetismo,CrecimientoPersonal,Mindfulness,Autoconocimiento,VidaConsciente,Bienestar,Meditación
