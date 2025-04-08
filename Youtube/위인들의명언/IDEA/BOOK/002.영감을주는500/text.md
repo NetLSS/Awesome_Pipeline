@@ -200,6 +200,7 @@ __ Frederick Buechner
 "A strong body listens. It obeys. A weak body commands. If your body is weak it tells you what to do. If your body is strong it'll actually listen to you when you tell it to do something. If you build it right you can overcome some of the obstacles of age and recovery."
 - Andre Agassi
 — Winston Churchill
+---
 "It is the destiny of the weak to be devoured by the strong."
 - Otto von Bismarck
 "If the body be feeble, the mind will not be strong."
@@ -229,3 +230,208 @@ __ Frederick Buechner
 - Michael Jackson
 "It's hard to be strong and be weak at the same time. So I spent a lot of time sitting still. Sitting still for hours, not moving a muscle. Really concentrated work, so I'm ready. I'm ready for my performance."
 - Lady Gaga
+"Leaders must be tough enough to fight, tender enough to cry, human enough to make mistakes, humble enough to admit them, strong enough to absorb the pain, and resilient enough to bounce back and keep on moving."
+— Jesse Jackson
+— Napoleon Hill
+"If you are strong enough, there are no precedents."
+- F. Scott Fitzgerald
+"Mankind must put an end to war before war puts an end to mankind."
+— John F. Kennedy
+— Miyamoto Musashi
+- Clarissa Pinkola Estés
+"Anything can be achieved with a strong enough why!"
+"Keep this constantly in mind. Weak desires bring weak results, just as a small amount of fire makes a small amount of heat. When your desires are strong enough you will appear to possess superhuman powers to achieve."
+"The bow is tactically strong at the commencement of battle, especially battles on a moor, as it is possible to shoot quickly among the spearmen."
+"All strong souls first go to hell before they do the healing of the world they came here for. If we are lucky, we return to help those still trapped below."
+— Tony Robbins
+"But if I keep my core and back strong, the scoliosis doesn't really bother me."
+— Usain Bolt
+"Sometimes when you smile, it's not because you're happy. It's because you're strong."
+— Pamela Anderson
+"When you are required to exhibit strength, it comes."
+— Joseph Campbell
+"Part of your purpose in life is to build strong and fruitful relationships with others, and your work setting is a perfect place to start."
+- Zig Ziglar
+"The heart's affections are divided like the branches of the cedar tree; if the tree loses one strong branch; it will suffer but it does not die; it will pour all its vitality into the next branch so that it will grow and fill the empty place."
+- Khalil Gibran
+"We may be weak, but looking at our weakness will never make us strong."
+- Watchman Nee
+"The purpose of law is to prevent the strong always having their way."
+_ Ovid
+"The strong man is the man who can stand up for his rights and not hit back."
+— Martin Luther King Jr.
+"To try to be safe everywhere is to be strong nowhere."
+_ Winston Churchill
+"I am a strong believer in the ability of human beings to change for the better. I am a strong believer in trying to change what we are dissatisfied with."
+— Chimamanda Ngozi Adichie
+"In war, the strong make slaves of the weak, and in peace the rich makes slaves of the poor."
+— Oscar Wilde
+"My mother taught me to always be strong and always work hard. She's been working hard her whole life for me and my brother. I'm a lot like her in that I work hard for what I want. She taught me that."
+- Kevin Durant
+"Our passions are not too strong, they are too weak. We are far too easily pleased."
+—C. S. Lewis
+"There's strong data that, within companies, the No. 1 reason for ethical violations is the pressure to meet expectations, sometimes unrealistic expectations."
+— Stephen R. Covey
+"The battle is not to the strong alone. It is to the vigilant, the active, and the brave. A small, disciplined militia can not only hold out against a larger force, but drive it back, because what they're fighting for rightfully belongs to them."
+- Patrick Henry
+"A mind that questions everything, unless strong enough to bear the weight of its ignorance, risks questioning itself and being engulfed in doubt."
+-Émile Durkheim
+"I think that if you use the so-called "strong words" you'll get your point across faster and you can save a lot of beating around the bush. Why are people afraid of words? Sometimes the dumbest thing that gets said makes the point for you."
+— Frank Zappa
+"Creating a strong business and building a better world are not conflicting goals - they are both essential ingredients for long-term success."
+— Bill Ford
+"Look to the lighthouse of the Lord. There is no fog so dense, no night so dark, no gale so strong, no mariner so lost but what its beacon light can rescue."
+- Thomas S. Monson
+"If you're a strong female, you don't need permission."
+- Lady Gaga
+"Feelings of passion, pure bliss, reverence, optimism, trust and illumination indicate that your desire to manifest success and abundance has an extremely strong pulling power from the universal source to you."
+- Wayne W. Dyer
+"The cheerful mind perseveres and the strong mind hews its way through a thousand difficulties."
+- Swami Vivekananda
+"Those who understand the gospel cannot possibly look down on anyone, since they were saved by sheer grace, not by their perfect doctrine or strong moral character."
+- Timothy Keller
+"I'm strong on the outside, not all the way through. I've never been perfect, but neither have you."
+- Chester Bennington
+"Life is full of happiness and tears; be strong and have faith."
+- Kareena Kapoor
+"LORD strengthen me where I am too weak and weaken me where I am too strong!"
+-Leonard Ravenhill
+"Be strong and of good courage. You are truly royal spirit daughters of Almighty God. You are princesses, destined to become queens. Your own wondrous story has already begun. Your "once upon a time" is now."
+- Dieter F. Uchtdorf
+"What am I supposed to do, Sit around and wait for you? Well I can't do that, And there's no turning back. I need time to move on, I need love to feel strong. Cause I've got time to think it through, And maybe I'm too good for you!"
+- Cher
+"No time for drug addiction, no time for smoke or booze. Too strong for a shortened life span, I've got no time to lose."
+— Henry Rollins
+"Buck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego."
+— Jack London
+"Once the decision has been made, close your ear even to the best counter argument: sign of a strong character. Thus an occasional will to stupidity."
+- Friedrich Nietzsche
+"Prayer is the acid test of the inner man's strength. A strong spirit is capable of praying much and praying with all perseverance until the answer comes. A weak one grows weary and fainthearted in the maintenance of praying."
+- Watchman Nee
+"The best time to set up a new discipline is when the idea is strong."
+- Jim Rohn
+"People are like tea bags; you never know how strong they'll be until they're in hot water. In times of trouble, you not only discover what you truly believe but whether or not you can act on your beliefs."
+— Rita Mae Brown
+"Real greatness is often hidden, humble, simple, and unobtrusive. It is not easy to trust ourselves and our actions without public affirmation. We must have strong self-confidence combined with deep humility"
+- Henri J.M. Nouwen
+"As strong as my legs are, it is my mind that has made me a champion."
+— Michael Johnson
+"Pessimism is a form of mental dipsomania; it disdains healthy nourishment, indulges in the strong drink of denunciation, and creates an artificial dejection which thirsts for a stronger draught."
+- Rabindranath Tagore
+"Ideal love is fostered only between two sincere, mature and independent people. Real love is not two people clinging to each other; it can only be fostered between two strong people secure in their individuality."
+- Daisaku Ikeda
+"The wind of God's grace is incessantly blowing. Lazy sailors on the sea of life do not take advantage of it. But the active and strong always keep the sails of their minds unfurled to catch the favorable winds and thus reach their destination very soon."
+- Mahatma Gandhi
+"An oak and a reed were arguing about their strength. When a strong wind came up, the reed avoided being uprooted by bending and leaning with the gusts of wind. But the oak stood firm and was torn up by the roots."
+— Aesop
+"That strong mother doesn't tell her cub, Son, stay weak so the wolves can get you. She says, Toughen up, this is reality we are living in."
+— Lauryn Hill
+"If you build the guts to do something, anything, then you better save enough to face the consequences."
+- Criss Jami
+"Don't hold strong opinions about things you don't truly understand."
+- Kid Cudi
+"Writing a first draft is like trying to build a house in a strong wind."
+— William Faulkner
+"While we worry about how fast we grow, God is concerned about how strong we grow."
+- Rick Warren
+"When you do the wrong thing, knowing it is wrong, you do so because you haven't developed the habit of effectively controlling or neutralizing strong inner urges that tempt you, or because you have established the wrong habit and don't know how to eliminate them effectively
+- W. Clement Stone
+"Burdens are for shoulders strong enough to carry them"
+- Margaret Mitchell
+"So Matilda's strong young mind continued to grow, nurtured by the voices of all those authors who had sent their books out into the world like ships on the sea. These books gave Matilda a hopeful and comforting message: You are not alone."
+— Roald Dahl
+"I know that love is ultimately the only answer to mankind's problems. And I'm going to talk about it everywhere I go. I know it isn't popular to talk about it in some circles today. I'm not talking about emotional bosh when I talk about love, I'm talking about a strong, demanding love."
+— Martin Luther King Jr.
+"Buy companies with strong histories of profitability and with a dominant business franchise!"
+- Warren Buffett
+"It is not the strength of your faith that saves you, but the strength of Him upon whom you rely! Christ is able to save you if you come to Him-be your faith weak or be it strong"
+- Charles H. Spurgeon
+"Any structure must have a strong foundation. The cornerstones anchor the foundation. For some reason the cornerstones that I chose to begin with I never changed."
+- John Wooden
+"The remnants of pain left behind by every strong negative emotion that is not fully faced, accepted, and then let go of join together to form an energy feld that lives in the very cells of your body"
+- Eckhart Tolle
+"Strong in all the Broken Places."
+- Ernest Hemingway
+"Perception is strong and sight weak. In strategy it is.."
+— Miyamoto Musashi
+"Only our deep moral values and our strong social institutions can hold back that jungle and restrain the darker impulses of human nature."
+- Ronald Reagan
+"For love is as strong as death."
+- Cassandra Clare
+"Insubordination may only be the evidence of a strong mind."
+- Napoleon
+"Be strong and of good courage; be not afraid, neither be thou dismayed."
+-John E. Kennedy
+"I think men who can cry are strong men."
+- James Frey
+- Nicole Kidman
+"I was taught a very strong work ethic that included punctuality, which I've always felt is a sign of respect for others."
+"Words are even more feeble on this Memorial Day, for the sight before us is that of a strong and good nation that stands in silence and remembers those who were loved and who, in return, loved their countrymen enough to die for them."
+- Ronald Reagan
+"No executive has ever suffered because his subordinates were strong and effective."
+- Peter F. Drucker
+"I think you can be defiant and rebellious and still be strong and positive."
+- Madonna
+"Reason is the first victim of strong emotion."
+— Frank Herbert
+"Strong men don't compromise, it is said, and principles should never be compromised."
+— Andrew Carnegie
+"We have proved that the true strength of our nation comes not from the scale of our wealth but from the power of our ideals - opportunity, democracy, liberty and hope."
+- Barack Obama
+"Every Christian community must realize that not only do the weak need the strong, but also that the strong cannot exist without the weak. The elimination of the weak is the death of fellowship."
+- Dietrich Bonhoeffer
+"Love heals. Heals and liberates. I use the word love, not meaning sentimentality, but a condition so strong that it may be that which holds the stars in their heavenly positions and that which causes the blood to flow orderly in our veins."
+— Maya Angelou
+"Strong women leave big hickies."
+- Madonna
+"A great man, tender of heart, strong of nerve, boundless patience and broadest sympathy, with no motive apart from his country."
+- Frederick Douglass
+"By nature, your soul is soft, gentle, loving and kind. It is forgiving, peaceful, and humble. Confident and comforting in times of despair, your soul is strong, focused, and determined in the mission called life."
+- Debbie Ford
+"Build me a son, O Lord, who will be strong enough to know when he is weak, and brave enough to face himself when he is afraid, one who will be proud and unbending in honest defeat, and humble and gentle in victory."
+- Douglas MacArthur
+"You know, there's a word for big, strong men who attack women, and it's coward."
+— Veronica Roth
+"I wasn't real quick, and I wasn't real strong. Some guys will just take off and it's like, whoa. So I beat them with my mind and my fundamentals."
+- Larry Bird
+"When I'm weak, you can be strong; when I'm strong, you can be weak. That's what I believe marriage is."
+_ Gisele Bundchen
+"It is not I who am strong, it is reason, it is truth."
+-Émile Zola
+"Communities and countries and ultimately the world are only as strong as the health of their women."
+- Michelle Obama
+"Let us move forward with strong and active faith."
+— Franklin D. Roosevelt
+---
+"The motto of war is: "Let the strong survive; let the weak die." The motto of peace is: "Let the strong help the weak to survive.''"
+- Franklin D. Roosevelt
+"I sit between my brother the mountain and my sister the sea. We three are one in loneliness, and the love that binds us together is deep and strong and strange."
+— Khalil Gibran
+"One must need to be strong, otherwise one will never become strong."
+- Friedrich Nietzsche
+"Strong men greet war, tempest, hard times. They wish, as Pindar said, to tread the floors of hell, with necessities as hard as iron."
+— Ralph Waldo Emerson
+"The language of the street is always strong."
+- Ralph Waldo Emerson
+"Fortunate Newton, happy childhood of science. Nature to him was an open book. He stands before us strong, certain, and alone."
+- Albert Einstein
+"Set me like a seal upon thy heart, love is as strong as death."
+_ Viktor E. Frankl
+"Leadership is not about being nice. it's about being right and being strong."
+- Paul Keating
+"T have learned that there is more power in a good strong hug than in a thousand meaningful words."
+- Ann Hood
+"Women can say anything they want to men, or blacks to whites, with impunity. But strong words in the other direction can bring down on students the wrath of the campus thought police - as well as punishments that can extend to suspension or expulsion."
+— Thomas Sowell
+"All the past we leave behind; We debouch upon a newer, mightier world, varied world, Fresh and strong the world we seize, world of labor and the march, Pioneers! O Pioneers!"
+_ Walt Whitman
+"People always complain about something. If you face yourself and stand up strong, you're OK. You can't go wrong."
+— James Hetfield
+"The first step toward greatness is to be honest, says the proverb; but the proverb fails to state the case strong enough. Honesty is not only "the first step toward greatness," it is greatness itself."
+- Christian N. Bovee
+"Everyone has their weak spot. The one thing that, despite your best efforts, will always bring you to your knees, regardless of how strong you are otherwise."
+- Sarah Dessen
+"O impotence of mind, in body strong! But what is strength without a double share Of wisdom, vast, unwieldy, burdensome, Proudly secure, yet liable to fall By weakest subtleties, not made to rule, But to subserve where wisdom bears command."
+- John Milton
+"There is no greater pillar of stability than a strong, free and educated woman, and there is no more inspiring role model than a man who respects and cherishes women and champions their leadership."
+- Angelina Jolie
