@@ -1,1 +1,1 @@
-[](https://www.minimax.io/audio/tts)
+[minimax](https://www.minimax.io/audio/tts)
