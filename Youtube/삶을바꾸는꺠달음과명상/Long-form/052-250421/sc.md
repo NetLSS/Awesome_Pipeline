@@ -1,26 +1,17 @@
-Nisarga Yoga Principle Two
-Interest and Earnestness
-"Him have I seen now whom I so earnestly desired to see, I met myself... I pined to see the most beloved one... Yet with love and determination, eagerness and courage, I started on my journey."
-- Sri Nisargadatta Maharaj
-To know yourself and your true identity as God, consider what you already know: your knowledge 'I am' (Brahman) as the Ultimate, the truth. Knowledge is shapeless, pure, and luminous. Self-love and Self-taste infuse this knowledge and its love for the Supreme. There are many names but whatever is, is not apart from you, whether you call it Brahma, Vishnu, or Mahesh. These incarnations are advertisements that point to your worthiness. I have told you, 'You are Brahman. There is no Brahman apart from you', and my words are final and sincere.
-You inherently know the state before the appearance of your consciousness, but persistently dedicating time and attention to welcome this silent state which is the seed of the universe, of Brahman, is often challenging. Although your current mental activities reveal your likely busy-ness, with regular practice sitting in silence, you will eventually soothe your inner talk and conflicts.
-Fearless is the one who knows that their beingness is of the great God. Many worship God as an external entity, but where does such praise lead, ultimately, but to the grip of death? Death is reserved for the ignorant, whereas I am the soul of Bhagwan Sri Krishna, and his is mine. Lakhs of people proclaim this, but how many people will say they are the soul of Bhagwan Krishna? Too few, considering there should be no doubt of this.
-With minimal effort, all can grasp the significance of this non-intellectual knowledge and release the experience of suffering. But to do so, you must hold on to consciousness and seek clarity. And for greater clarity, you must meditate. With this meditation, you will unveil the origin of consciousness, its maintenance, and what happens after consciousness vanishes. You will acquire all this knowledge without asking for it, but just by meditating.
-Your True Self Prior to Conception
-Your mind gives you your bodily identity, and this, the scriptures say, results in misery and rebirth. Even now if you see yourself as aloof from the mind, you will recognise the falsehood of birth. In a dream, a high caste Hindu sees himself as a person of a lower caste. The dream produces wrong understanding, and one considers oneself inferior. All problems derive from your identification with the body.
-I caution my visitors that if they take a genuine interest in what I speak about that they will shed all interest in their hopes, desires, and cravings. But instead of focusing on perceived losses, consider: What will you gain through your spiritual pursuit?
-When you receive this knowledge, you will come to know you are neither the vital breath nor the consciousness and you will realise your true Self prior to conception. What were your needs and problems then? When you understand yourself, where is the place for hopes, desires, and cravings? These are perpetual qualms for those attached to the body, but meaningless to the real devotee of the Supreme. When consciousness receives self-knowledge, we become free of all knowledge and there is no place for hopes, desires, and cravings.
-An earnest, fortunate seeker will quickly grasp my words. Those who are earnest have an urgent desire to know the truth of self-knowledge, but such seekers are rare. Many have natural devotion, yet no urgency. Practice surrendering your attention
-at my feet, and you will be liberated in this very life. Your mind alone cannot relinquish the body identity.
-Greatness is the effect of remembering Guru or God; His superiority comes to pass in this recognition, and he gains satisfaction through self-acquaintance. Hold the 'I am' knowledge in self-love and self-confidence for the good of yourself and the
-entire world. Worship the name of Hari or God for the knowledge and fulfilment of your being.
-Every morning, you wake up. Who comes to know, through words, about waking up? The one who knows about waking up is the one who first recognises the waking. Every morning, give attention to the momentary experience in-between sleep and
-waking. Be there fully. No effort. Just recognise the passing phase. After that ephemeral moment, the identification with the body begins, along with all the worldly activities.
+당신은 '나는 누구인가' 하고 진지하게 물어본 적이 있습니까?
+당신이라는 존재는 과연 몸과 마음 그 자체일까요?
+잠에서 막 깨어난 순간, 아직 이름도, 역할도 기억나지 않을 때…
+그 짧은 찰나에 존재하는 '나'는 누구입니까?
 
-==
+혹시 지금 당신이 겪는 불안, 두려움, 갈망은
+당신의 본질이 아닌, 익숙해진 착각에서 비롯된 것은 아닐까요?
 
-니스르가 요가 원리 2  
-관심과 진지함  
+오늘 우리는, 존재의 뿌리를 묻고 깨달음의 본질을 탐구했던
+스리 니사르가닷타 마하라지의 가르침을 통해
+'진정한 나'는 무엇이며,
+의식 이전의 참된 자아를 어떻게 만날 수 있는지에 대해 이야기해 보려 합니다.
+
+나라는 존재의 의미
 
 '그토록 간절히 만나고 싶었던 이를 이제 보았도다. 나는 나 자신을 만났도다... 가장 사랑하는 이를 보기 위해 그리워했도다... 그러나 사랑과 결의, 열정과 용기를 가지고 나는 여정을 시작했도다.'  
 – 스리 니사르가닷타 마하라지
@@ -33,7 +24,7 @@ waking. Be there fully. No effort. Just recognise the passing phase. After that 
 
 약간의 노력만으로도 모든 이가 이 비지성적인 지식의 중요성을 이해하고 고통의 경험에서 벗어날 수 있다. 그러나 그러기 위해서는 의식에 집중하고 명료함을 추구해야 한다. 그리고 더 큰 명료함을 위해서는 명상을 해야 한다. 이 명상을 통해 당신은 의식의 기원, 그 지속, 그리고 의식이 사라진 이후에 어떤 일이 일어나는지를 알게 될 것이다. 이는 요구하지 않아도 저절로 얻게 되는 지식이며, 오직 명상을 통해 얻을 수 있다.
 
-**수태 이전의 참된 자아**
+수태 이전의 참된 자아
 
 당신의 마음은 당신에게 육체적 정체성을 부여하며, 경전은 이를 고통과 윤회의 원인이라고 말한다. 지금 이 순간에도 당신이 마음과 분리된 존재로 자신을 본다면, 출생이라는 환상은 거짓임을 인식하게 될 것이다. 꿈에서 고귀한 카스트의 힌두가 자신을 낮은 카스트의 사람으로 여긴다. 꿈은 잘못된 이해를 만들어내며, 사람은 스스로를 열등하게 여긴다. 모든 문제는 당신이 몸과 동일시하는 데에서 비롯된다.
 
@@ -46,3 +37,23 @@ waking. Be there fully. No effort. Just recognise the passing phase. After that 
 위대함은 구루나 신을 기억함으로써 생겨나는 결과이다. 그의 위대함은 이러한 인식에서 비롯되며, 그는 자기 자신을 아는 데서 만족을 얻는다. '나라는 지각'을 자기애와 자신감 속에 간직하라. 이는 당신 자신과 온 세상의 이익을 위한 것이다. 하리 또는 신의 이름을 찬양하라. 이는 존재의 지식과 완성으로 이어진다.
 
 매일 아침, 당신은 잠에서 깨어난다. 깨어났다는 사실을 말로 아는 이는 누구인가. 깨어났음을 인지하는 자가 바로 가장 먼저 인식하는 존재이다. 매일 아침, 수면과 각성 사이의 찰나의 경험에 주의를 기울여라. 그 순간에 온전히 머물러라. 아무 노력도 하지 말고, 그저 그 지나가는 단계를 인식하라. 그 찰나의 순간 이후, 신체와의 동일시가 시작되며, 세속적 활동이 모두 뒤따른다.
+
+당신은 이제, 자신이 누구인지에 대해 조금 더 가까워졌습니까?
+몸도, 생각도 아닌… 늘 존재해왔던 그 '나'를 느껴보셨습니까?
+
+의식의 바탕이자 모든 존재의 근원인 '나'.
+그 고요한 중심으로 돌아가는 여정은
+결국 모든 갈망과 두려움을 놓아버리는 길입니다.
+
+스리 니사르가닷타 마하라지는 말했습니다.
+'당신이 브라만이다. 당신과 분리된 브라만은 없다.'
+
+그 말을 마음 깊이 새긴 채,
+오늘도 잠시 멈추어 조용히 '나'를 바라보는 시간을 가져보면 어떻겠습니까?
+
+이 영상이 당신의 내면에 작은 울림이 되었다면
+좋아요와 구독, 그리고 멤버십 가입으로 함께 해 주세요.
+그 관심이 더 깊은 깨달음의 여정을 함께 만들어 갑니다.
+
+시청해 주셔서 감사합니다.
+당신의 내면에 늘 빛과 고요가 함께하기를 바랍니다.
