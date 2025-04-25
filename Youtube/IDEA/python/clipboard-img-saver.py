@@ -13,6 +13,7 @@ sound = pygame.mixer.Sound(SOUND_PATH)
 
 
 SAVE_DIR = "/Users/isangsu/Pictures/ClipBoardImage"
+SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/삶을바꾸는깨달음/ImageSources"
 CHECK_INTERVAL = 1  # seconds
 
 os.makedirs(SAVE_DIR, exist_ok=True)
