@@ -11,9 +11,17 @@ SOUND_PATH = "/Users/isangsu/Music/효과음/discord-leave-noise.mp3
 pygame.mixer.init()
 sound = pygame.mixer.Sound(SOUND_PATH)
 
+default_path = "/Users/isangsu/Pictures/ClipBoardImage"
 
-SAVE_DIR = "/Users/isangsu/Pictures/ClipBoardImage"
-SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/삶을바꾸는깨달음/ImageSources"
+# SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/삶을바꾸는깨달음/ImageSources"
+
+SAVE_DIR = input("저장 경로를 입력하세요(미입력시 default): ")
+
+if not SAVE_DIR:  # 입력이 없으면
+    SAVE_DIR = default_path  # 기본 경로 설정, 예: "./data"
+
+print(f"지정 경로: {SAVE_DIR}")
+
 CHECK_INTERVAL = 1  # seconds
 
 os.makedirs(SAVE_DIR, exist_ok=True)
