@@ -9,6 +9,7 @@ def transform_text_file(file_path):
         content = content.replace('...', '')     # "..." → ""
         content = content.replace(', ', ',\n')   # ", " → ",\n"
         content = content.replace('. ', '.\n')   # ". " → ".\n"
+        content = content.replace('" ', '"\n')   # ". " → ".\n"
 
         # 새 파일 이름 생성
         base, ext = os.path.splitext(file_path)
