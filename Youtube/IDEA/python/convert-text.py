@@ -1,4 +1,5 @@
 import os
+import textwrap  # 추가
 
 def transform_text_file(file_path):
     try:
@@ -9,7 +10,17 @@ def transform_text_file(file_path):
         content = content.replace('...', '')     # "..." → ""
         content = content.replace(', ', ',\n')   # ", " → ",\n"
         content = content.replace('. ', '.\n')   # ". " → ".\n"
-        content = content.replace('" ', '"\n')   # ". " → ".\n"
+        content = content.replace('" ', '"\n')   # '" ' → '"\n'
+
+        # 각 줄의 글자가 30글자 수가 넘어 가면, 30글자 근처 공백 기준으로 개행
+        wrapped_lines = []
+        for line in content.splitlines():
+            if len(line) <= 30:
+                wrapped_lines.append(line)
+            else:
+                wrapped = textwrap.fill(line, width=30, break_long_words=False, break_on_hyphens=False)
+                wrapped_lines.append(wrapped)
+        content = '\n'.join(wrapped_lines)
 
         # 새 파일 이름 생성
         base, ext = os.path.splitext(file_path)
