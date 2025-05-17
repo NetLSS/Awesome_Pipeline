@@ -42,8 +42,17 @@ print(f"지정 경로: {SAVE_DIR}")
 
 CHECK_INTERVAL = 0.2  # seconds
 
-반복횟수 = input("반복 횟수를 지정하세요:")
-반복횟수 = int(반복횟수)
+반복횟수 = input("반복 횟수를 지정하세요: (default:60)")
+
+if not 반복횟수:  # 입력이 없으면
+    반복횟수 = 60  # 기본 경로 설정, 예: "./data"
+else:
+    # 숫자형으로 변환
+    try:
+        반복횟수 = int(반복횟수)
+    except ValueError:
+        print("잘못된 입력입니다. 기본값 60으로 설정합니다.")
+        반복횟수 = 60
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 
