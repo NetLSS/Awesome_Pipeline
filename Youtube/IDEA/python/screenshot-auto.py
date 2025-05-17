@@ -4,6 +4,9 @@ import os
 import mss
 import mss.tools
 
+
+대기시간 = 0.4
+총페이지 = 564
 # ⏺ 저장 경로 입력
 save_path = input("스크린샷을 저장할 폴더 경로를 입력하세요 (예: /Users/yourname/Desktop/screenshots): ").strip()
 
@@ -34,18 +37,18 @@ time.sleep(10)
 
 # 📸 스크린샷 루프
 with mss.mss() as sct:
-    for i in range(386):
-        print(f"반복 {i+1} / 386")
+    for i in range(총페이지):
+        print(f"반복 {i+1} / {총페이지}")
 
         filename = os.path.join(save_path, f"screenshot_{i+1:03}.png")
         sct_img = sct.grab(region)
         mss.tools.to_png(sct_img.rgb, sct_img.size, output=filename)
 
-        print(f"{i+1}/386 저장됨: {filename}")
+        print(f"{i+1}/{총페이지} 저장됨: {filename}")
 
         time.sleep(0.1)            # 캡처 후 잠시 대기
-        pyautogui.press('left')   # 왼쪽 화살표 누르기
-        time.sleep(15)           # 15초 대기
+        pyautogui.press('right')   # 화살표 누르기
+        time.sleep(대기시간)           # 15초 대기
 
 # import pyautogui
 # import time
