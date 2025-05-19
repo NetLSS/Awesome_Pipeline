@@ -20,7 +20,7 @@ print("""
 저장 경로를 입력하세요(미입력시 default): 
 0. 직접입력
 1. 깨달음이머무르는곳 (/Volumes/T7_Shield/Files/YOUTUBE/깨달음이머무는곳/images)
-2. 
+2. 말씀의샘 (/Volumes/T7_Shield/Files/YOUTUBE/말씀의샘/imageSources)
 """)
 
 
@@ -34,6 +34,8 @@ if SAVE_DIR == "0":  # 입력이 없으면
         SAVE_DIR = default_path  # 기본 경로 설정, 예: "./data"
 if SAVE_DIR == "1":
     SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/깨달음이머무는곳/images"
+elif SAVE_DIR == "2":
+    SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/말씀의샘/imageSources"
 else: 
     SAVE_DIR = default_path  # 기본 경로 설정, 예: "./data"
 
