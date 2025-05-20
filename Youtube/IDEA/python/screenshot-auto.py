@@ -6,7 +6,7 @@ import mss.tools
 
 
 대기시간 = 0.4
-총페이지 = 564
+총페이지 = 300
 # ⏺ 저장 경로 입력
 save_path = input("스크린샷을 저장할 폴더 경로를 입력하세요 (예: /Users/yourname/Desktop/screenshots): ").strip()
 
