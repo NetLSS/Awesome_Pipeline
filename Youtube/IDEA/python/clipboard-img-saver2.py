@@ -101,7 +101,7 @@ def click_click():
     # 우하단 좌클릭
     pyautogui.click(x2, y2, button='left')
 
-    time.sleep(1.5)
+    time.sleep(2.0)
 
 
 def main():

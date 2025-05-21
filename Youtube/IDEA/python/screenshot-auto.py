@@ -6,13 +6,15 @@ import mss.tools
 
 
 대기시간 = 0.4
-총페이지 = 300
 # ⏺ 저장 경로 입력
 save_path = input("스크린샷을 저장할 폴더 경로를 입력하세요 (예: /Users/yourname/Desktop/screenshots): ").strip()
 
 if not os.path.exists(save_path):
     os.makedirs(save_path)
     print(f"폴더가 없어서 생성했습니다: {save_path}")
+
+# 총 페이지 수 입력
+총페이지 = int(input("총 페이지 수를 입력하세요: ").strip())
 
 # 🖱 좌상단 좌표 입력
 input("\n[STEP 1] 좌상단 위치로 마우스를 이동한 후, Enter 키를 누르세요.")
