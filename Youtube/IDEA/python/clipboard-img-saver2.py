@@ -22,6 +22,7 @@ print("""
 1. 깨달음이머무르는곳 (/Volumes/T7_Shield/Files/YOUTUBE/깨달음이머무는곳/images)
 2. 말씀의샘 (/Volumes/T7_Shield/Files/YOUTUBE/말씀의샘/imageSources)
 3. 진리의 서원(/Volumes/T7_Shield/Files/YOUTUBE/진리의서원/images)
+4. 칼융내면연구소(/Volumes/T7_Shield/Files/YOUTUBE/칼융-내면연구소/images)
 """)
 
 
@@ -31,16 +32,21 @@ print(f"input {SAVE_DIR}")
 
 if SAVE_DIR == "0":  # 입력이 없으면
     SAVE_DIR = input("저장 경로를 입력하세요(미입력시 default): ")
-    if not SAVE_DIR:  # 입력이 없으면
-        SAVE_DIR = default_path  # 기본 경로 설정, 예: "./data"
-if SAVE_DIR == "1":
-    SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/깨달음이머무는곳/images"
-elif SAVE_DIR == "2":
-    SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/말씀의샘/imageSources"
-elif SAVE_DIR == "3":
-    SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/진리의서원/images"
+    print(f"입력한 경로: {SAVE_DIR}")
+    # if not SAVE_DIR:  # 입력이 없으면
+    #     SAVE_DIR = default_path  # 기본 경로 설정, 예: "./data"
 else: 
-    SAVE_DIR = default_path  # 기본 경로 설정, 예: "./data"
+    if SAVE_DIR == "1":
+        SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/깨달음이머무는곳/images"
+    elif SAVE_DIR == "2":
+        SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/말씀의샘/imageSources"
+    elif SAVE_DIR == "3":
+        SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/진리의서원/images"
+    elif SAVE_DIR == "4":
+        SAVE_DIR = "/Volumes/T7_Shield/Files/YOUTUBE/칼융-내면연구소/images"
+    else: 
+        SAVE_DIR = default_path  # 기본 경로 설정, 예: "./data"
+        print(f"기본 경로로 설정: {SAVE_DIR}")
 
 
 print(f"지정 경로: {SAVE_DIR}")
