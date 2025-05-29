@@ -63,3 +63,8 @@ chick2025ch@gmail.com
 bing2025su@gmail.com
 
 halt2025halt@gmail.com
+
+kim2025bang@gmail.com
+
+## 마마
+motherslove2525@gmail.com
