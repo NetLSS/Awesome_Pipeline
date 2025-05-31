@@ -72,3 +72,8 @@ motherslove2525@gmail.com
 ikki20762@gmail.com
 
 dir2025lss@gmail.com
+
+y2025seo@gmail.com
+
+## 깨달음이 머무는 곳 비즈니스
+kkardarum.official.gmail.com
